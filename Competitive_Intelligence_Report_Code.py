@@ -16,11 +16,11 @@ from datetime import date
 data_set_id = "7107365"
 # Search Criteria for Competitor Mutual Funds
 comp_funds_id = "7105912"
-# Search Criteria for AGF Mutual Funds
+# Search Criteria for Select Mutual Funds
 agf_funds_id = "7107602"
 # Search Criteria for Competitor ETFs
 comp_etf_id = "7105915"
-# Search Criteria for AGF ETFs
+# Search Criteria for Select ETFs
 agf_etf_id = "7109452"
 
 # Run the remaining code (or simply use Ctrl+A, Shift+Enter) and watch the magic happen. Once executed, download the generated excel file denoted by todays date.
